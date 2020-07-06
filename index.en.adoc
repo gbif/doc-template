@@ -1,5 +1,5 @@
 = GBIF Document Template
-Kyle Copas <communication@gbif.org> & Matthew Blissett
+Author One <communication@gbif.org> & Author Two
 :toc: left
 :toclevels: 3
 :numbered:
@@ -23,10 +23,16 @@ include::preface.en.adoc[]
 
 :sectnums:
 
-include::ch01.en.adoc[]
+include::100.en.adoc[]
 
-include::ch02.en.adoc[]
+include::200.en.adoc[]
+
+:sectnums!:
 
 include::afterword.en.adoc[]
 
 include::appa.en.adoc[]
+
+include::glossary.en.adoc[]
+
+include::bibliography.en.adoc[]
