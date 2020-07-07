@@ -9,7 +9,7 @@ Author One <communication@gbif.org>; Author Two
 :license: https://creativecommons.org/licenses/by-sa/4.0/
 
 ifdef::backend-html5[]
-_languageLinks:pdf[This document is also available in,PDF format]languageLinks:languages[and in other languages:,]._
+languageLinks:combined[]
 endif::backend-html5[]
 
 :sectnums!:

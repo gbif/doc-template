@@ -1,5 +1,5 @@
 [appendix]
-== Appendix A: Example
+== Example
 
 An AsciiDoc appendix is just a document section with a 'specialsection' title.
 
