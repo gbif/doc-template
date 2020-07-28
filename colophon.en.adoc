@@ -15,7 +15,7 @@ James Joyce and Samuel Beckett of Trinity College, Dublin, contributed to this v
 
 === Licence
 
-The document _The special guide to something_ is licensed under https://creativecommons.org/licenses/by/4.0[Creative Commons Attribution 4.0 Unported License].
+The document _Georeferencing Calculator Manual_ is licensed under https://creativecommons.org/licenses/by-sa/4.0[Creative Commons Attribution-ShareAlike 4.0 Unported License].
 
 === Persistent URI
 
