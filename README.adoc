@@ -4,7 +4,7 @@ https://docs.gbif.org/documentation-guidelines/[image:https://docs.gbif.org/docu
 // License badge
 https://creativecommons.org/licenses/by-sa/4.0/[image:https://img.shields.io/badge/License-CC%20BY%2D-SA%204.0-lightgrey.svg[CC BY-SA 4.0]]
 // Build status badge: In the text below, please update "doc-template" to "doc-your-document-name", and remove this line.
-https://builds.gbif.org/job/doc-template/[image:https://builds.gbif.org/job/doc-template/badge/icon[Build status]]
+https://builds.gbif.org/job/doc-template/lastBuild/console[image:https://builds.gbif.org/job/doc-template/badge/icon[Build status]]
 
 = GBIF Document Template
 
