@@ -7,7 +7,9 @@ endif::backend-html5[]
 
 === Suggested citation
 
-Author U, Autore D & Auteur T. The special guide to something. Third edition. GBIF Secretariat: Copenhagen. https://doi.org/10.35035/doc-xxxx-xxxx.
+Author U, Autore D & Auteur T. The special guide to something. Third edition. GBIF Secretariat: Copenhagen. 
+// Uncomment once a DOI is assigned
+//https://doi.org/10.EXAMPLE/EXAMPLE
 
 === Authors
 
@@ -23,14 +25,16 @@ The document _The special guide to something_ is licensed under https://creative
 
 === Persistent URI
 
-https://doi.org/10.35035/doc-xxxx-xxxx
+#TODO: Assign a DOI before publication#
+// Uncomment once a DOI is assigned
+//https://doi.org/10.EXAMPLE/EXAMPLE
 
 === Document control
 
 Third edition, April 2020
 
 // include reference to provenance if possible/relevant
-https://doi.org/10.15468/doc-yyyy-yyyy[Second edition], March 2015, by Due Autore and https://orcid.org/0000-0000-0000-0000[Troisième Auteur].
+https://doi.org/10.EXAMPLE/2ND-EXAMPLE[Second edition], March 2015, by Due Autore and https://orcid.org/0000-0000-0000-0000[Troisième Auteur].
 
 Originally based on an earlier publication, _Towards establishing the special guide to something_.
 
