@@ -31,7 +31,7 @@ The document _The special guide to something_ is licensed under https://creative
 
 === Document control
 
-Third edition, April 2020
+{revnumber}, {revdate}
 
 // include reference to provenance if possible/relevant
 https://doi.org/10.EXAMPLE/2ND-EXAMPLE[Second edition], March 2015, by Due Autore and https://orcid.org/0000-0000-0000-0000[Troisième Auteur].
